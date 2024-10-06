@@ -45,6 +45,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Added upper and lower lip shaping options.
 - More control over nose shape (upper/lower bridge shapes) with smoother deformation.
 - 13 new ear shapers, ears can be hidden separately.
+
 ![Arc_6EoZ48gEo9](https://github.com/user-attachments/assets/dce92d6a-e4ed-45d3-816e-d9d478988683)
 
 ### ♛ 6. Emo HUD Changes:
