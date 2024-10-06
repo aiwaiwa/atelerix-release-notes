@@ -1,8 +1,10 @@
 > `ATELERIX Head Osei v3` release notes.
+> 
+> Author: Salt Thistle
+> 
+> Date: 10/5/2024
 
 # ♛ WE SPENT THE ENTIRE MONTH OF SEPTEMBER 2024 WORKING ON SOME AMAZING UPDATES!!! ♛
-
-— Salt Thistle
 
 ## New Additions Overview:
 
