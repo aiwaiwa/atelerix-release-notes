@@ -39,6 +39,9 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Ambient animations can now be turned on/off.
 - Several Mouth Opener animations (including chew) are now available.
 
+![Arc_rHj1AesbvG](https://github.com/user-attachments/assets/fb94aad2-1956-4de3-8c4a-e49b4d44b9ff)
+
+
 ### ♛ 5. Shapers:
 
 - Added chin shaping option.
