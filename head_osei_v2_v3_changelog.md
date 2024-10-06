@@ -20,6 +20,8 @@
 - Updated lower lip and chin for better deformation!
 - Updated upper eyelid rigging for smoother eye closure.
 
+![Firestorm-Releasex64_fNMXdWQjia](https://github.com/user-attachments/assets/9987c6af-a277-48b7-bdad-03f00ad97e4e)
+
 ![Firestorm-Releasex64_rj7Nwzgbp4](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
 
 ### ♛ Mouth Osei v3:
