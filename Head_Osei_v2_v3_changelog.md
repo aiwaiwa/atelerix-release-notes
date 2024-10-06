@@ -1,6 +1,6 @@
 # ♛ WE SPENT THE ENTIRE MONTH OF SEPTEMBER 2024 WORKING ON SOME AMAZING UPDATES!!! ♛
 
-- Salt Thistle
+— Salt Thistle
 
 ## New Additions Overview:
 
