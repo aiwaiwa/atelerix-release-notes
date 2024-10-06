@@ -6,11 +6,11 @@
 
 ## New Additions Overview:
 
-1. Improved Mesh and Rigging
-2. Improved Animations in the Head
-3. Improved swooplet portal layout
-4. Re-designed Emo HUD / Animations
-5. Added Shapers and other new controls
+1. Improved Mesh and Rigging.
+2. Improved Animations in the Head.
+3. Improved swooplet portal layout.
+4. Re-designed Emo HUD / Animations.
+5. Added Shapers and other new controls.
 
 ---
 
@@ -57,13 +57,14 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Added chin shaping option.
 - Added upper and lower lip shaping options.
 - More control over nose shape (upper/lower bridge shapes) with smoother deformation.
-- 13 new ear shapers
+- 13 new ear shapers.
 
 ![Arc_6EoZ48gEo9](https://github.com/user-attachments/assets/dce92d6a-e4ed-45d3-816e-d9d478988683)
 
 ### ♛ Hiders:
 
-- Ears can be hidden separately, which opens the door for mixed addons without the need to wear a **Ear Default** L or R.
+- Ears can be hidden separately
+  - This makes it easier to wear just one add-on and keep the other ear as built-in. (Previously, one had to wear an **Ear Default** L or R to achieve that.)
 
 ![Arc_ZJ1QAfsRRZ](https://github.com/user-attachments/assets/6ee40a49-178d-45ff-842e-178384d9b66d)
 
