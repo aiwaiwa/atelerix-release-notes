@@ -69,8 +69,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Ears can be hidden separately
   - This makes it easier to wear just one add-on and keep the other ear as built-in. (Previously, one had to wear an **Ear Default** L or R to achieve that.)
 
-![Arc_ZJ1QAfsRRZ](https://github.com/user-attachments/assets/6ee40a49-178d-45ff-842e-178384d9b66d)
-
+![Arc_UP28WxASlv](https://github.com/user-attachments/assets/d6b53cd5-f667-499a-88bf-68d5002fa397)
 
 ### ♛ Emo HUD Changes:
 
