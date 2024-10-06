@@ -1,11 +1,13 @@
 # ♛ WE SPENT THE ENTIRE MONTH OF SEPTEMBER 2024 WORKING ON SOME AMAZING UPDATES!!! ♛
 
+- Salt Thistle
+
 ## New Additions Overview:
 
 1. Improved Mesh and Rigging
 2. Improved Animations in the Head
 3. Improved swooplet portal layout
-4. Re-designed Emo-HUD / Animations
+4. Re-designed Emo HUD / Animations
 5. Added Shapers and other new controls
 
 ---
@@ -30,7 +32,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Sclera (eye white) can now be resized or shifted up or down — a critically important feature for making various eye shapes look realistic.
 - Adjustable blinking frequency (with the option to turn it off).
 - Eyes can be closed using a calibratable eye closer.
-- (Emo-HUD overrides blinking when needed.)
+- (Emo HUD overrides blinking when needed.)
 
 ### ♛ 4. Built-in Animation Controls:
 
