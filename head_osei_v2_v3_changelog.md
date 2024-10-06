@@ -76,7 +76,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Emo HUD backdrop options and background color customization.
 - Emo HUD includes an eraser and selection controls for the number of simultaneous emotions (1–6).
 
-![Firestorm-Releasex64_lgHVZcMX4c](https://github.com/user-attachments/assets/bc34a652-9dd6-4bd3-8e29-b3fd4655aca1)
+![Firestorm-Releasex64_NPEW4tjq6H](https://github.com/user-attachments/assets/e61ae2d4-6524-4483-988b-7ebddac5a7bd)
 
 ---
 
