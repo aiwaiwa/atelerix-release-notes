@@ -51,6 +51,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 
 ![Arc_rHj1AesbvG](https://github.com/user-attachments/assets/fb94aad2-1956-4de3-8c4a-e49b4d44b9ff)
 
+![opera_xdIGT6jfOc](https://github.com/user-attachments/assets/9924f4b0-af2a-4412-9ffa-29eb55b67ff9)
 
 ### ♛ Shapers:
 
