@@ -14,14 +14,6 @@
 
 ## ── ⋆⋅☆⋅⋆ IN OTHER WORDS, ⋆⋅☆⋅⋆ ──
 
-### ♛ Mouth Osei v3:
-
-New mouth has improved mesh and textures, including new teeth and tongue meshes.
-
-- New mouth follows shape changes — lower teeth no longer poke through the chin, allowing for a wider range of head shapes and characters.
-
-![Arc_Fp7zWl3SMq](https://github.com/user-attachments/assets/d2346a76-6931-498a-8453-176d443b6302)
-
 ### ♛ Mesh & Rigging Improvements:
 
 - New "Mouth Space" surface allows for completely new or custom teeth to be added if desired.
@@ -30,6 +22,14 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 
 ![Firestorm-Releasex64_rj7Nwzgbp4](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
 
+### ♛ Mouth Osei v3:
+
+New mouth has improved mesh and textures, including new teeth and tongue meshes.
+
+- New mouth follows shape changes — lower teeth no longer poke through the chin, allowing for a wider range of head shapes and characters.
+
+![Arc_Fp7zWl3SMq](https://github.com/user-attachments/assets/d2346a76-6931-498a-8453-176d443b6302)
+
 ### ♛ Eye and Blink Controls:
 
 - Glint can now be resized or shifted up or down.
@@ -37,6 +37,8 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Adjustable blinking frequency (with the option to turn it off).
 - Eyes can be closed using a calibratable eye closer.
 - (Emo HUD overrides blinking when needed.)
+
+![Arc_85B7YKndVH](https://github.com/user-attachments/assets/78bd7c41-69d5-4486-be22-3b3e5e481617)
 
 ### ♛ Built-in Animation Controls:
 
