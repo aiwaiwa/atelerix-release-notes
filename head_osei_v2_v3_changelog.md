@@ -26,6 +26,8 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Updated lower lip and chin for better deformation!
 - Updated upper eyelid rigging for smoother eye closure.
 
+![Firestorm-Releasex64_rj7Nwzgbp4](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
+
 ### ♛ 3. Eye and Blink Controls:
 
 - Glint can now be resized or shifted up or down.
