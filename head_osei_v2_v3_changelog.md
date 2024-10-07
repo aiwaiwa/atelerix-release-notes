@@ -94,7 +94,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 
 ## Demo & Links:
 
-- To see a swooplet demo, please [click here](https://swooplet.com/a/demo)
+- To see a swooplet demo, please [click here](https://swooplet.com/a/demo).
 - To learn about swooplet: [https://swooplet.com/](https://swooplet.com/)
 - To learn about how swooplet is committed to privacy: [https://swooplet.com/privacy](https://swooplet.com/privacy)
 
