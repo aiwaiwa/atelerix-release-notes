@@ -6,7 +6,8 @@
 
 > ♛ We spent the entire month of September 2024 working on some amazing updates! ♛
 
-This is a free update for the owners of previous versions.\
+
+This is a free update for owners of previous versions.\
 Look for the redelivery sign in the [store](https://maps.secondlife.com/secondlife/Ethos/187/116/501).
 
 ![Firestorm-Releasex64_Gg3gssZuSC](https://github.com/user-attachments/assets/912ec56b-b064-475d-8de7-b0353380caaa)
