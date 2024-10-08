@@ -13,7 +13,8 @@ The lower the number, the higher the priority the attached item gets during rend
 Therefore:
 
 * It's good to assign the _Head_ to a **higher-numbered** attachment point, like **Right Wing (46)**, since it's one of the 'farthest' points on the avatar.
-* Anything closer to the eyes that contains alpha, like _Hair_, should be attached to a lower-numbered point, ideally the lowest, like **Skull (2)**. If there's nothing else in front of the rigged hair, this maximizes its chances of rendering correctly in front of other attachments.
+* Anything closer to the eyes that contains alpha, like _Hair_, should be attached to a lower-numbered point, ideally the lowest, like **Skull (2)**.\
+Since there is typically nothing else in front of the rigged hair, this will ensure it is rendered with priority in front of any other attachments that might be added later.
 
 > We will be preassigning different attachment points when we release our items to help address this issue.
 
