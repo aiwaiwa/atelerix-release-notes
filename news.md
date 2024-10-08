@@ -9,7 +9,8 @@ The lost attachments bug in Second Life servers seems to particularly affect att
 Which points should you choose?
 
 For rigged, fitted, or Bento mesh, take note of the number in parentheses after the attachment point name in Firestorm.
-The lower the number, the higher the priority the attached item gets during rendering. Therefore:
+The lower the number, the higher the priority the attached item gets during rendering.\
+Therefore:
 
 * It's good to assign the _Head_ to a **higher-numbered** attachment point, like **Right Wing (46)**, since it's one of the 'farthest' points on the avatar.
 * Anything closer to the eyes that contains alpha, like _Hair_, should be attached to a lower-numbered point, ideally the lowest, like **Skull (2)**. If there's nothing else in front of the rigged hair, this maximizes its chances of rendering correctly in front of other attachments.
