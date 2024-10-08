@@ -1,6 +1,6 @@
 # **ATELERIX** News
 
-## • Lost Attachments SL Bug (Part 2)
+## Lost Attachments SL Bug (Part 2)
 >Date: 10/8/24\
 >Author: Aiwaiwa Hurricane
 
@@ -18,7 +18,7 @@ The lower the number, the higher the priority the attached item gets during rend
 * In the meantime, `Shift-Alt-R` upon arrival to another sim!
 * [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
-## • Heads Up! Lost Attachments SL Bug (Part 1).
+## Heads Up! Lost Attachments SL Bug (Part 1).
 >Date: 10/7/24\
 >Author: Salt Thistle
 
@@ -29,7 +29,7 @@ press `Shift-Alt-R` upon arriving. This will refresh/reset your attachments and 
 
 In the meantime, `Shift-Alt-R`!
 
-## • `ATELERIX Head Osei v3` unrolled.
+## **ATELERIX Head Osei v3** unrolled.
 > Date: 10/5/24\
 > Author: Salt Thistle
 
