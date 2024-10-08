@@ -18,7 +18,7 @@ Since there is typically nothing else in front of the rigged hair, this will ens
 
 > We will be preassigning different attachment points when we release our items to help address this issue.
 
-* In the meantime, `Shift-Alt-R` upon arrival to another sim!
+* In the meantime, `Alt-Shift-R` upon arrival to another sim!
 * [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
 ## Heads Up! Lost Attachments SL Bug (Part 1).
@@ -26,11 +26,11 @@ Since there is typically nothing else in front of the rigged hair, this will ens
 >Author: Salt Thistle
 
 If you've been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
-press `Shift-Alt-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
+press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
 
 [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
-In the meantime, `Shift-Alt-R`!
+In the meantime, `Alt-Shift-R`!
 
 ## **ATELERIX Head Osei v3** unrolled.
 > Date: 10/5/24\
@@ -41,3 +41,5 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 Check the [Release Notes](/store/atelerix/head-osei-v3-release-notes) for more information.
 
 ![Firestorm-Releasex64_Gg3gssZuSC](https://github.com/user-attachments/assets/912ec56b-b064-475d-8de7-b0353380caaa)
+
+
