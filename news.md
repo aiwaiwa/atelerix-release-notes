@@ -4,8 +4,9 @@
 >Date: 10/8/24\
 >Author: Aiwaiwa Hurricane
 
-The lost attachments bug in Second Life servers seems to particularly affect attachments assigned to the same attachment point.\
-Until this bug is fixed, _reassign attachments_ to points that have nothing else assigned. Which points should you choose?
+The lost attachments bug in Second Life servers seems to particularly affect attachments assigned to the same attachment point. Until this bug is fixed, _reassign attachments_ to points that have nothing else assigned.
+
+Which points should you choose?
 
 For rigged, fitted, or Bento mesh, take note of the number in parentheses after the attachment point name in Firestorm.
 The lower the number, the higher the priority the attached item gets during rendering. Therefore:
