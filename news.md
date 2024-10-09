@@ -8,7 +8,7 @@ The lost attachments bug in Second Life servers seems to particularly affect att
 
 Which points should you choose?
 
-For rigged, fitted, or Bento mesh, take note of the number in parentheses after the attachment point name in Firestorm.
+For rigged/fitted/Bento mesh, take note of the number in parentheses after the attachment point name in Firestorm.
 The lower the number, the higher the priority the attached item gets during rendering.\
 Therefore:
 
