@@ -41,6 +41,6 @@ This is a **free update** for owners of previous versions.\
 Look for the redelivery sign in the [store](https://maps.secondlife.com/secondlife/Ethos/187/116/501).\
 Check the [Release Notes](/store/atelerix/head-osei-v3-release-notes) for more information.
 
-![Firestorm-Releasex64_Gg3gssZuSC](https://github.com/user-attachments/assets/912ec56b-b064-475d-8de7-b0353380caaa)
+![Head_Osei_v3](https://github.com/user-attachments/assets/912ec56b-b064-475d-8de7-b0353380caaa)
 
 
