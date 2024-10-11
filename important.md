@@ -1,4 +1,4 @@
-## Lost Attachments SL Bug (Part 2)
+## Lost Attachments SL Bug
 > Date: 10/8/24\
 > Author: Aiwaiwa Hurricane
 
