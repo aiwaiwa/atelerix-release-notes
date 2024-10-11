@@ -1,5 +1,5 @@
 ## Lost Attachments SL Bug
-> Date: 10/8/24\
+> Date: 10/8/24, Updated: 10/11/24\ 
 > Author: Aiwaiwa Hurricane
 
 If you've recently been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
