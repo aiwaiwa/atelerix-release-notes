@@ -5,7 +5,7 @@
 If you've been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
 press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
 
-### However...
+### Another Approach
 
 The lost attachments bug in Second Life servers seems to particularly affect attachments assigned to the same attachment point.
 Until this bug is fixed, _reassign attachments_ to points that have nothing else assigned.
