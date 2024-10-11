@@ -7,7 +7,7 @@ press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and 
 
 > [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
-### A workaround
+### Workaround
 
 The lost attachments bug in Second Life servers seems to particularly affect attachments assigned to the same attachment point.
 Until this bug is fixed, _reassign attachments_ to points that have nothing else assigned.
