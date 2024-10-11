@@ -23,6 +23,8 @@ since, from the user's point of view, the head is the ‘farthest’ surface on 
 * Anything positioned closer from our point of view that contains alpha, like _Hair_, should be attached to a lower-numbered point, ideally the lowest, like **Skull (2)**.\
 Since there is typically nothing else in front of the rigged hair, this will ensure it is rendered with priority in front of any other attachments that might be added later.
 
+![rendering_priority](https://github.com/user-attachments/assets/97985fc8-8fc2-4d8a-8799-7ef69151312b)
+
 > We will be preassigning different attachment points when we release our items to help address this issue.
 
 * In the meantime, `Alt-Shift-R` upon arrival to another sim!
