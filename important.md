@@ -2,10 +2,12 @@
 > Date: 10/8/24\
 > Author: Aiwaiwa Hurricane
 
-If you've been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
+If you've recently been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
 press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
 
-### Another Approach
+> [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
+
+### A workaround
 
 The lost attachments bug in Second Life servers seems to particularly affect attachments assigned to the same attachment point.
 Until this bug is fixed, _reassign attachments_ to points that have nothing else assigned.
@@ -24,7 +26,6 @@ Since there is typically nothing else in front of the rigged hair, this will ens
 > We will be preassigning different attachment points when we release our items to help address this issue.
 
 * In the meantime, `Alt-Shift-R` upon arrival to another sim!
-* [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
 
 
