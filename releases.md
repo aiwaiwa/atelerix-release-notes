@@ -1,4 +1,4 @@
-## **ATELERIX Head Osei v3** unrolled.
+## **ATELERIX Head Osei v3** unrolled
 > Date: 10/5/24\
 > Author: Salt Thistle
 
