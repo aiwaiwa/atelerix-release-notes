@@ -1,6 +1,6 @@
 ## **ATELERIX Head Osei v3** unrolled
 > Date: 10/5/24\
-> Author: Salt Thistle
+> Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
 
 This is a **free update** for owners of previous versions.\
 Look for the redelivery sign in the [store](https://maps.secondlife.com/secondlife/Ethos/187/116/501).
