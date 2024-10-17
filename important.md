@@ -1,6 +1,6 @@
 ## Lost Attachments SL Bug
 > Date: 10/8/24, Updated: 10/11/24 \
-> Authors: Salt Thistle, Aiwaiwa Hurricane
+> Authors: [Salt Thistle](https://my.secondlife.com/salt.thistle), [Aiwaiwa Hurricane](https://my.secondlife.com/aiwaiwa.hurricane)
 
 If you've recently been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
 press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
