@@ -6,6 +6,7 @@
 * Assign separate attachment points by default.
 * The ears are now shown by default.
 * Allow Emo HUD to be reattached without losing its proper rotation.
+* Remove a few animations from Emo HUD that caused the eyes to show through the eyelids.
 
 ![Packaging Bag](https://github.com/user-attachments/assets/7b9c7c71-f83c-4911-ac7b-b06491249a2a)
 
