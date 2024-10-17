@@ -1,3 +1,14 @@
+## **ATELERIX Head Osei v3** repacked
+> Date: 10/16/24\
+> Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
+
+**ATELERIX Head Osei v3** has been repacked without bumping the version number to address a few minor issues:
+* Assign separate attachment points by default.
+* The ears are now shown by default.
+* Allow Emo HUD to be reattached without losing its proper rotation.
+
+![Packaging Bag](https://github.com/user-attachments/assets/7b9c7c71-f83c-4911-ac7b-b06491249a2a)
+
 ## **ATELERIX Head Osei v3** unrolled
 > Date: 10/5/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
