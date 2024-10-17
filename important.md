@@ -5,6 +5,8 @@
 If you've recently been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
 press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
 
+> Noticing this visually might be tricky, because everything may look fine to you, but others around you will see the problem.
+
 > [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
 ### Workaround
