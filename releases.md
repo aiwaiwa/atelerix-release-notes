@@ -8,6 +8,8 @@
 > Date: 10/18/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
 
+Discover two new mouth add-ons: Cracked Teeth and Fangs, featuring sharp, cat-like fangs for a bold and exotic look.
+
 ![Mouth Add-ons](https://github.com/user-attachments/assets/f399d99b-9525-49b9-af27-c58be4db8b54)
 
 ## **ATELERIX Head Osei v3** repacked
