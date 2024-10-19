@@ -1,17 +1,15 @@
 > **ATELERIX Head Osei v3** release notes.\
 > Author: Salt Thistle\
-> Date: 10/5/2024
+> Dates: 10/5/2024, 10/19/24
 
 # **ATELERIX Head Osei v3** is out!
 
 > ♛ We spent the entire month of September 2024 working on some amazing updates! ♛
 
-
 This is a free update for owners of previous versions.\
 Look for the redelivery sign in the [store](https://maps.secondlife.com/secondlife/Ethos/187/116/501).
 
-![Firestorm-Releasex64_Gg3gssZuSC](https://github.com/user-attachments/assets/912ec56b-b064-475d-8de7-b0353380caaa)
-
+![ATELERIX Head Osei v3](https://github.com/user-attachments/assets/ee55bb08-92cf-4200-879c-ef3f19b0adbd)
 
 ## New Additions Overview:
 
