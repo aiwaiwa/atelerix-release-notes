@@ -71,9 +71,9 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 
 ### ♛ Hiders:
 
-- Ears can be hidden separately
-  - This makes it easier to wear just one add-on and keep the other ear as built-in. (Previously, one had to wear an **Ear Default** L or R to achieve that.)
-  - This makes it possible to mix-match addons that require different kind of hiding.
+- Ears can be hidden separately.
+  - Makes it easier to wear just one add-on and keep the other ear as built-in. (Previously, one had to wear an **Ear Default** L or R to achieve that.)
+  - Makes it possible to mix-match add-ons that require different kind of hiding.
 
 ![Hiders](https://github.com/user-attachments/assets/7b2d70c0-b124-488e-bacf-e5d18b4a5c74)
 
