@@ -73,9 +73,9 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 
 - Ears can be hidden separately
   - This makes it easier to wear just one add-on and keep the other ear as built-in. (Previously, one had to wear an **Ear Default** L or R to achieve that.)
+  - This makes it possible to mix-match addons that require different kind of hiding.
 
-![Arc_ZJ1QAfsRRZ](https://github.com/user-attachments/assets/6ee40a49-178d-45ff-842e-178384d9b66d)
-
+![Hiders](https://github.com/user-attachments/assets/7b2d70c0-b124-488e-bacf-e5d18b4a5c74)
 
 ### ♛ Emo HUD Changes:
 
@@ -87,7 +87,7 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
 - Emo HUD backdrop options and background color customization.
 - Emo HUD includes an eraser and selection controls for the number of simultaneous emotions (1–6).
 
-![Firestorm-Releasex64_NPEW4tjq6H](https://github.com/user-attachments/assets/e61ae2d4-6524-4483-988b-7ebddac5a7bd)
+![Emo HUD](https://github.com/user-attachments/assets/daff60b3-dd63-4f1f-b8a1-77aa3410a554)
 
 ---
 
