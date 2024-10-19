@@ -1,4 +1,4 @@
-## **ATELERIX Cyclone Stretch Ear** Add-On just dropped
+## **ATELERIX Cyclone Stretch Ear** Add-On
 > Date: 10/18/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
 
