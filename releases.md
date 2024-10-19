@@ -4,6 +4,12 @@
 
 ![Poster](https://github.com/user-attachments/assets/99bc0c64-bc59-4011-a065-80c2beb3f9f6)
 
+## Two New **Mouth Osei v3** Add-Ons
+> Date: 10/18/24\
+> Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
+
+![Mouth Add-ons](https://github.com/user-attachments/assets/f399d99b-9525-49b9-af27-c58be4db8b54)
+
 ## **ATELERIX Head Osei v3** repacked
 > Date: 10/16/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
