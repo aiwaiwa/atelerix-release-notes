@@ -15,9 +15,10 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 
 1. Improved Mesh and Rigging.
 2. Improved Animations in the Head.
-3. Improved swooplet portal layout.
-4. Re-designed Emo HUD / Animations.
-5. Added Shapers and other new controls.
+3. Re-designed Emo HUD / Animations.
+4. Added Shapers and other new controls.
+
+![Swooplet page for Head Osei v3](https://github.com/user-attachments/assets/9a93c843-34b3-4cf3-9a6c-fc50f4f95f31)
 
 ---
 
@@ -29,9 +30,9 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 - Updated lower lip and chin for better deformation!
 - Updated upper eyelid rigging for smoother eye closure.
 
-![Firestorm-Releasex64_fNMXdWQjia](https://github.com/user-attachments/assets/9987c6af-a277-48b7-bdad-03f00ad97e4e)
+![Lips Mesh](https://github.com/user-attachments/assets/9987c6af-a277-48b7-bdad-03f00ad97e4e)
 
-![Firestorm-Releasex64_rj7Nwzgbp4](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
+![Eyes](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
 
 ### ♛ Mouth Osei v3:
 
