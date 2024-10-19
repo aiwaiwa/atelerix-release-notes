@@ -13,10 +13,18 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 
 ## New Additions Overview:
 
-1. Improved Mesh and Rigging.
-2. Improved Animations in the Head.
-3. Re-designed Emo HUD / Animations.
-4. Added Shapers and other new controls.
+1. Improved mesh and rigging - lips, chin, eyes, new mouth space surface.
+2. Improved eye control - glint and sclera texture scaling and shift.
+3. +8 mouth openers.
+4. Improved animations in the Head:
+   - Eye blinking.
+   - Sleep - with calibration for different shapes.
+   - Ambient animations toggle.
+5. Added shapers and other new controls: chin, upper and lower lip, lip separation, smoother nose shapers.
+6. Separate left & right ear hiders.
+7. New mouth with incredible teeth mesh and textures.
+8. Re-designed Emo HUD with 300 animations.
+
 
 ---
 
