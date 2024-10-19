@@ -32,24 +32,27 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 
 ![Eyes](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
 
-### ♛ Eye and Blink Controls:
+### ♛ Eye Control:
 
 - Glint can now be resized or shifted up or down.
 - Sclera (eye white) can now be resized or shifted up or down — a critically important feature for making various eye shapes look realistic.
-- Adjustable blinking frequency (with the option to turn it off).
-- Eyes can be closed using a calibratable eye closer.
-- (Emo HUD overrides blinking when needed.)
 
 ![Arc_85B7YKndVH](https://github.com/user-attachments/assets/78bd7c41-69d5-4486-be22-3b3e5e481617)
 
-### ♛ Built-in Animation Controls:
+### ♛ New Mouth Openers
 
-- Ambient animations can now be turned on/off.
 - Several Mouth Opener animations (including chew) are now available.
 
-![Arc_rHj1AesbvG](https://github.com/user-attachments/assets/fb94aad2-1956-4de3-8c4a-e49b4d44b9ff)
+![Mouth Openers](https://github.com/user-attachments/assets/9924f4b0-af2a-4412-9ffa-29eb55b67ff9)
 
-![opera_xdIGT6jfOc](https://github.com/user-attachments/assets/9924f4b0-af2a-4412-9ffa-29eb55b67ff9)
+### ♛ Eye Blinking and Other Built-In Animation Controls:
+
+- Ambient animations can now be turned on/off.
+- Adjustable blinking frequency (with the option to turn it off).
+  - (Emo HUD overrides blinking when needed.)
+- Eyes can be closed using a calibratable eye closer.
+
+![Arc_rHj1AesbvG](https://github.com/user-attachments/assets/fb94aad2-1956-4de3-8c4a-e49b4d44b9ff)
 
 ### ♛ Shapers:
 
