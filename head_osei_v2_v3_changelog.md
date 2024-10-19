@@ -18,8 +18,6 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 3. Re-designed Emo HUD / Animations.
 4. Added Shapers and other new controls.
 
-![Swooplet page for Head Osei v3](https://github.com/user-attachments/assets/9a93c843-34b3-4cf3-9a6c-fc50f4f95f31)
-
 ---
 
 ## ── ⋆⋅☆⋅⋆ IN OTHER WORDS, ⋆⋅☆⋅⋆ ──
@@ -33,14 +31,6 @@ Look for the redelivery sign in the [store](https://maps.secondlife.com/secondli
 ![Lips Mesh](https://github.com/user-attachments/assets/9987c6af-a277-48b7-bdad-03f00ad97e4e)
 
 ![Eyes](https://github.com/user-attachments/assets/bc3819f2-7a8d-43d6-b136-876c2be5a486)
-
-### ♛ Mouth Osei v3:
-
-New mouth has improved mesh and textures, including new teeth and tongue meshes.
-
-- New mouth follows shape changes — lower teeth no longer poke through the chin, allowing for a wider range of head shapes and characters.
-
-![Arc_Fp7zWl3SMq](https://github.com/user-attachments/assets/d2346a76-6931-498a-8453-176d443b6302)
 
 ### ♛ Eye and Blink Controls:
 
@@ -77,6 +67,18 @@ New mouth has improved mesh and textures, including new teeth and tongue meshes.
   - Makes it possible to mix-match add-ons that require different kind of hiding.
 
 ![Hiders](https://github.com/user-attachments/assets/7b2d70c0-b124-488e-bacf-e5d18b4a5c74)
+
+### ♛ New Swooplet Page Layout
+
+![Swooplet page for Head Osei v3](https://github.com/user-attachments/assets/dd6ed0d7-f13b-4016-ba1d-7fb266cc1059)
+
+### ♛ Mouth Osei v3:
+
+New mouth has improved mesh and textures, including new teeth and tongue meshes.
+
+- New mouth follows shape changes — lower teeth no longer poke through the chin, allowing for a wider range of head shapes and characters.
+
+![Arc_Fp7zWl3SMq](https://github.com/user-attachments/assets/d2346a76-6931-498a-8453-176d443b6302)
 
 ### ♛ Emo HUD Changes:
 
