@@ -2,8 +2,7 @@
 > Date: 10/24/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
 
-![Poster]!(https://github.com/user-attachments/assets/f2927b45-f438-461f-9988-5fa77dc92024)
-
+![Poster](https://github.com/user-attachments/assets/9ca4443c-ed8d-45f2-914a-a886735d9457)
 
 ## **ATELERIX Cyclone Stretch Ear** Add-On
 > Date: 10/18/24\
