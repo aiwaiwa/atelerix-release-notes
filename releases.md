@@ -2,9 +2,8 @@
 > Date: 10/24/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
 >
-> ![image](https://github.com/user-attachments/assets/76d905ac-2409-43d7-8d47-abb08446ba56)
-
-> 
+![image](https://github.com/user-attachments/assets/76d905ac-2409-43d7-8d47-abb08446ba56)
+ 
 ## **ATELERIX Hat & Hair Samedi** - Including a Unisex Unrigged Hat!
 > Date: 10/24/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
