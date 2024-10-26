@@ -1,13 +1,24 @@
-## Lost Attachments SL Bug
-> Dates: 10/8/24, 10/11/24 \
+## **BOM Eyes** Update _Coming soon!_
+
+The BOM Eyes group gift will soon receive an update for all members.\
+This update will include the long-requested abilities to perform:
+
+* Vertical texture shift
+* Individual scaling options for both horizontal and vertical adjustments.
+
+
+## Lost Attachments SL Bug _Fixed!_
+> Dates: 10/8/24, 10/11/24, 10/25/24 \
 > Authors: [Salt Thistle](https://my.secondlife.com/salt.thistle), [Aiwaiwa Hurricane](https://my.secondlife.com/aiwaiwa.hurricane)
+
+> Thank you for [upvoting the issue](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788).\
+> Linden Lab took the issue seriously and **announced on 10/25/24 that it has been fixed**. The original article may still be useful, so we will keep it available.
 
 If you've recently been having trouble with your attachments disappearing or not responding upon arrival in new sims, 
 press `Alt-Shift-R` upon arriving. This will refresh/reset your attachments and should resolve the issue.
 
 > Noticing this visually might be tricky, because everything may look fine to you, but others around you will see the problem.
 
-> [Upvote here](https://feedback.secondlife.com/server-bugs/p/attachment-loss-on-rc-channel-2024-08-2910619830788) to help push for a permanent fix.
 
 ### Workaround
 
