@@ -1,3 +1,11 @@
+## We are open at TMD this month!
+> Date: 11/5/24\
+> Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)\
+> Location: [TMD](http://maps.secondlife.com/secondlife/TMD/122/132/22)
+
+![TMD](https://github.com/user-attachments/assets/8870f37a-07aa-49b0-96e8-a4834d4c482c)
+
+
 ## **ATELERIX Grimme Make - Ups** 
 > Date: 10/24/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)
