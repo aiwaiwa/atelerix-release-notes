@@ -1,14 +1,22 @@
-## Hair Chae, Bandaid Add-on, Tattoos
+## Hair Chae (month of December at TMD only) 
+> Date: 12/5/24
+> Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)\
+> Location: [TMD](http://maps.secondlife.com/secondlife/TMD/124/97/23)
+
+![hair chae](https://cdn.primfeed.com/img/6e17aa84-c348-49d7-8218-85b302f753ec/1f848f40-40ac-4ab1-92a4-b092c48c5809_original.webp?v1)
+
+## Bandaid Add-on, Tattoos
 > Date: 12/1/24
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)\
 > Location: [ATELERIX Store](http://maps.secondlife.com/secondlife/Ethos/208/104/501)
 
-![hair chae](https://cdn.primfeed.com/img/6e17aa84-c348-49d7-8218-85b302f753ec/1f848f40-40ac-4ab1-92a4-b092c48c5809_original.webp?v1)
 ![image](https://github.com/user-attachments/assets/25d13ebf-602a-445c-bcf4-63503e4d5579)
 
 ## We had a great month of November at TMD
 > Date: 11/5/24, 12/1/24\
 > Author: [Salt Thistle](https://my.secondlife.com/salt.thistle)\
+
+All the items are now available at [ATELERIX Store](http://maps.secondlife.com/secondlife/Ethos/208/104/501).
 
 ![TMD](https://github.com/user-attachments/assets/8870f37a-07aa-49b0-96e8-a4834d4c482c)
 
