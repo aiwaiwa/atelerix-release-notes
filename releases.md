@@ -1,6 +1,6 @@
 ## Hair Chae (month of December at TMD only) 
 > Date: 12/5/24\
-> Location: [TMD](http://maps.secondlife.com/secondlife/TMD/124/97/23)
+> Location: [TMD](http://maps.secondlife.com/secondlife/TMD/124/97/23) (follow the red arrow)
 
 ![hair chae](https://cdn.primfeed.com/img/6e17aa84-c348-49d7-8218-85b302f753ec/1f848f40-40ac-4ab1-92a4-b092c48c5809_original.webp?v1)
 
