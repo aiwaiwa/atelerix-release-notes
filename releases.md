@@ -12,7 +12,7 @@
 
 ## We had a great month of November at TMD
 > Date: 11/5/24, 12/1/24\
-> Location: [ATELERIX Store](http://maps.secondlife.com/secondlife/Ethos/208/104/501).
+> Location: [ATELERIX Store](http://maps.secondlife.com/secondlife/Ethos/208/104/501)
 
 All the items are now available at the main store.
 
