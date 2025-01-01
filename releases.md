@@ -2,7 +2,7 @@
 > Date: 12/5/24\
 > Location: [ATELERIX Store](http://maps.secondlife.com/secondlife/Ethos/208/104/501)
 
-![hair chae](https://cdn.primfeed.com/img/6e17aa84-c348-49d7-8218-85b302f753ec/1f848f40-40ac-4ab1-92a4-b092c48c5809_original.webp?v1)
+![Hair Chae](https://cdn.primfeed.com/img/6e17aa84-c348-49d7-8218-85b302f753ec/1f848f40-40ac-4ab1-92a4-b092c48c5809_original.webp?v1)
 
 ## Bandaid Add-on, Tattoos
 > Date: 12/1/24\
